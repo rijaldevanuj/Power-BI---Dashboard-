@@ -96,7 +96,8 @@ This dashboard converts raw transactional data into measurable insights by:
 
 ## 📷 Dashboard Preview
 
-*(Add dashboard screenshot here)*
+*(<img width="1920" height="1032" alt="Screenshot 2026-02-12 022240" src="https://github.com/user-attachments/assets/18849016-8ee2-4c05-9024-4bea6105970c" />
+)*
 
 ---
 
