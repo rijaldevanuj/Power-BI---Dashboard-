@@ -1,4 +1,4 @@
-# 📊 E-Commerce Sales & Profit Analytics Dashboard (Power BI)
+# 📊 E-Commerce Sales & Profit Analytics Dashboard 
 
 ## 📌 Project Overview
 
