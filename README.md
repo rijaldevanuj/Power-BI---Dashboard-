@@ -1,4 +1,4 @@
-# 📊 E-Commerce Sales & Profit Analytics Dashboard 
+# 📊 Sales & Profit Analytics Dashboard 
 
 ## 📌 Project Overview
 
